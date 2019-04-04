@@ -1,0 +1,16 @@
+﻿  Gejmer.cpp
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(8): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(511): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(620): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(742): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(750): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(771): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(779): warning C4018: '<': signed/unsigned mismatch
+c:\users\finest\desktop\gły!!!\wlasne\grykomputerowe_lab2\grykomputerowe_lab2\gejmer.cpp(788): warning C4018: '<': signed/unsigned mismatch
+  GryKomputerowe_lab2.vcxproj -> C:\Users\Finest\Desktop\gły!!!\wlasne\GryKomputerowe_lab2\Debug\GryKomputerowe_lab2.exe
+  GryKomputerowe_lab2.vcxproj -> C:\Users\Finest\Desktop\gły!!!\wlasne\GryKomputerowe_lab2\Debug\GryKomputerowe_lab2.pdb (Full PDB)
